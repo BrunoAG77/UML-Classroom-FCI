@@ -41,7 +41,7 @@ O objetivo do projeto é implementar um sistema de controle de presença nas aul
 Tratando-se de engenharia de software, o projeto possui requisitos funcionais e não funcionais. Alguns requisitos funcionais importantes são: boa interface de usuário aos professores no registro de faltas, consequentemente com o professor criando um relatório informando o nome do aluno, sua turma, a disciplina a qual ele faltou e seu professor e, por fim, a data do ocorrido. Caso o aluno tenha faltas excessivas, os responsáveis pelo aluno serão notificados por um email. Já o requisito não funcional, isto é, será tratado com importância após a conclusão dos requisitos funcionais, é a acessibilidade do sistema aos usuários, como tamanho da fonte do website ou ter suporte à PCD.
 
 # Diagrama de Atividades
-![Captura de tela de 2024-09-12 10-55-20](https://github.com/user-attachments/assets/44a3f947-ba45-43e9-9e95-1780764b5bc1)
+![image](https://github.com/user-attachments/assets/03068b68-58cd-465e-ba39-1cad7d148df5)
 
 # Diagrama de Casos de Uso
 
