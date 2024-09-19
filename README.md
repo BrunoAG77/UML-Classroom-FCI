@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: Sistema de Presenças da Escola Infinito
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: BIGE Bang
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O objetivo do projeto é implementar um sistema de controle de presença nas aulas do Ensino Fundamental I na escola Infinito, tratando-se dos alunos serem aprovados caso tenham presença em 75% das aulas, sendo que as chamadas são realizadas no início das aulas e logo após o intervalo por professores diferentes.
 
 # Documentação
 
