@@ -45,8 +45,7 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/a9b014fa-c457-44e0-aea8-f378d00f0c3b)
-
+![Captura de tela de 2024-09-19 10-56-58](https://github.com/user-attachments/assets/691a643f-3b8f-47e6-bb55-2aa40262d8a6)
 
 # Descrição dos Casos de Uso
 
