@@ -49,7 +49,11 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/user-attachments/assets/60045992-61ee-4a98-bbf5-e09cc08eefe3)
+![image](https://github.com/user-attachments/assets/20b2b55f-bee8-4dd1-8178-1c6a6cdb67b2)
+![image](https://github.com/user-attachments/assets/1a1f3531-64f5-4991-ae46-e8f8442dba39)
+![image](https://github.com/user-attachments/assets/6fa0ca6f-da1b-494d-895f-950a61813018)
+
 
 # Diagrama de Sequência
 
