@@ -1,5 +1,6 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-__# Projeto: Sistema de Presenças da Escola Infinito__
+
+# Projeto: Sistema de Presenças da Escola Infinito
 
 # Grupo: BIGE Bang
 
