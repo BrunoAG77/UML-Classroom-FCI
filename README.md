@@ -1,5 +1,5 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-# Projeto: Sistema de Presenças da Escola Infinito
+**# Projeto: Sistema de Presenças da Escola Infinito**
 
 # Grupo: BIGE Bang
 
@@ -10,7 +10,6 @@ O objetivo do projeto é implementar um sistema de controle de presença nas aul
 # Documentação
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
-
 
 
 # Releases
