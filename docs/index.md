@@ -73,4 +73,8 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+GOMAA, H. Software Modeling and Design. Cambridge: Cambridge, 2011.
+BLAHA, M., RUMBAUGH, J. Modelagem e projetos baseados em objetos com UML 2. Rio de Janeiro:
+Elsevier-Campus, 2006.
+FOWLER, M. UML Essencial: Um Breve Guia para Linguagem Padrão. 3ª. ed, Porto Alegre: Bookman,
+2011.
