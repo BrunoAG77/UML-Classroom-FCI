@@ -61,7 +61,7 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/user-attachments/assets/597e3b5b-00a4-4260-8292-104eff39dca9)
 
 # Diagrama de Estados
 
