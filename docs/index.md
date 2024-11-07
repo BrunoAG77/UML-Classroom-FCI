@@ -57,7 +57,8 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/user-attachments/assets/6d84b3be-73b1-4ac8-a8c0-395f338cfdca)
+
 
 # Diagrama de Classes
 
