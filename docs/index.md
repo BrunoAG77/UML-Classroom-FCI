@@ -70,7 +70,7 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Imagem do WhatsApp de 2024-11-22 à(s) 17 38 07_0f174aad](https://github.com/user-attachments/assets/f4c725b0-2e71-41bd-99ce-62b81f731faf)
 
 # Referências
 
