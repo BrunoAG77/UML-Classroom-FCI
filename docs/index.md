@@ -66,7 +66,7 @@ Tratando-se de engenharia de software, o projeto possui requisitos funcionais e 
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/user-attachments/assets/dab82ba6-b16f-4330-b7d7-9533c1fb42d0)
 
 # Diagrama de Implantação
 
